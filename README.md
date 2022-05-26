@@ -4,8 +4,9 @@
 <img align="right" alt="" src="https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510__340.jpg">
 <hr/>
 <img width= "200" height= "200" align="right" alt="" src="https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447__340.png">
- <hr/>                                                                                                                   
-<h4> I'm Irfan Ansari from Paniyara , Maharajganj (UP). I'm a full stack with node js and Mearn web developer
+ <hr/> 
+ <br/>
+<h4> I'm Irfan Ansari from Paniyara , Maharajganj (UP). I'm a full stack web developer(frontent & backend) with node.JS | Web Designer UI/UX With FIGMA
 <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarirfan&label=Profile%20views&color=0e75b6&style=flat" alt="ansarirfan" /> </p>
 
