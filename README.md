@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Irfan Ansari</h1>
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/ansarirfan/ansarirfan/blob/main/funky-loader.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarirfan&label=Profile%20views&color=0e75b6&style=flat" alt="ansarirfan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansarirfan" alt="ansarirfan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/irfanan54378299" target="blank"><img src="https://img.shields.io/twitter/follow/irfanan54378299?logo=twitter&style=for-the-badge" alt="irfanan54378299" /></a> </p>
-
+<img align="right" alt="coding" width="200" height="200" border-radious="50%" src="https://github.com/ansarirfan/ansarirfan/blob/main/funky-loader.gif" />
 - 🔭 I’m currently working on **E-Commerce**
 
 - 🌱 I’m currently learning **React Native, Angular, Vue, .Net**
