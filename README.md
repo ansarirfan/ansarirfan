@@ -1,8 +1,8 @@
-![] (https://github.com/ansarirfan/ansarirfan/blob/main/README.md)
+![logo](https://github.com/ansarirfan/ansarirfan/blob/main/Screenshot%20(1).png))
 <h1 align="center">Hi 👋, I'm Irfan Ansari</h1>
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 
-<img aligen="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKrunal2206&psig=AOvVaw1fSb-uCqKBYGupI8YujBfb&ust=1710752691096000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiRutL4-oQDFQAAAAAdAAAAABAK" />
+<img aligen="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jimphicdesigns.com%2Fdownloads.php%3Fpigs%3D72&psig=AOvVaw1XrWSB8-Qj3auU301-aE6X&ust=1710866031611000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj-puie_oQDFQAAAAAdAAAAABAE" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarirfan&label=Profile%20views&color=0e75b6&style=flat" alt="ansarirfan" /> </p>
 
