@@ -1,4 +1,4 @@
-![logo](https://github.com/ansarirfan/ansarirfan/blob/main/Screenshot%20(1).png)
+![logo](https://github.com/ansarirfan/ansarirfan/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Irfan Ansari</h1>
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 
