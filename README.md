@@ -1,38 +1,98 @@
-![logo](https://github.com/ansarirfan/ansarirfan/blob/main/banner.png)
+<img src="https://res.cloudinary.com/db0qkzn6a/image/upload/v1768659432/gitdocs/user_38MuOC7m60GfDZ9rIMvS1YG9V5Y/images/u2fbmcao6gojzzzgucmo.png" alt="Irfan Ansari - Banner" />
+
 <h1 align="center">Hi 👋, I'm Irfan Ansari</h1>
-<h3 align="center">A passionate Full Stack MERN developer from India</h3>
+<p align="center"><strong>Full Stack MERN Developer • Building reliable, maintainable web apps</strong></p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarirfan&label=Profile%20views&color=0e75b6&style=flat" alt="ansarirfan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansarirfan" alt="ansarirfan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/irfanan54378299" target="blank"><img src="https://img.shields.io/twitter/follow/irfanan54378299?logo=twitter&style=for-the-badge" alt="irfanan54378299" /></a> </p>
-<img align="right" alt="coding" width="200" height="200" border-radious="50%" src="https://github.com/ansarirfan/ansarirfan/blob/main/funky-loader.gif" />
-- 🔭 I’m currently working on **E-Commerce**
-
-- 🌱 I’m currently learning **React Native, Angular, Vue, .Net**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ansarirfan](https://github.com/ansarirfan)
-
-- 💬 Ask me about **html, css, javascript, react.js, node.js, express.js, tailwind, bootstrap, mongodb, mysql, next.js, typescript, docker**
-
-- 📫 How to reach me **ansaripaniyara007@gmail.com**
-
-- ⚡ Fun fact **Code With Fun**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/irfanan54378299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irfanan54378299" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/irfan-ansari-825b33239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfan-ansari-825b33239" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100040202160457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100040202160457" height="30" width="40" /></a>
-<a href="https://instagram.com/_irfan_ansari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_irfan_ansari_" height="30" width="40" /></a>
+<!-- Right-aligned animated loader -->
+<p>
+  <img src="https://raw.githubusercontent.com/ansarirfan/ansarirfan/main/funky-loader.gif" alt="coding animation" width="150" style="float:right;">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <br/> <br/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>  </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ansarirfan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansarirfan" alt="Trophies" /></a>
+  <a href="https://twitter.com/irfanan54378299" target="_blank"><img src="https://img.shields.io/twitter/follow/irfanan54378299?logo=twitter&style=for-the-badge" alt="Follow on Twitter" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansarirfan&show_icons=true&locale=en&layout=compact" alt="ansarirfan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansarirfan&show_icons=true&locale=en" alt="ansarirfan" /></p>
+## About Me
+- 🔭 Currently building: an Hotel Booking App (frontend + Backend APIs + payments & deployment pipelines).
+- 🌱 Currently learning: React Native, Angular, Vue, and .NET.
+- 💬 I love building user-friendly interfaces and reliable backend services — ask me about HTML5, CSS3, JavaScript, React, TypeScript, Next.js, Node.js, Express, MongoDB, or Docker.
+- ⚡ Fun fact: I enjoy coding with a focus on clarity and performance.
+
+## Quick Links
+- GitHub: https://github.com/ansarirfan
+- Email: <a href="mailto:ansaripaniyara007@gmail.com">ansaripaniyara007@gmail.com</a>
+- LinkedIn: https://linkedin.com/in/irfan-ansari-825b33239
+- Twitter: https://twitter.com/irfanan54378299
+- Portfolio / Projects: https://github.com/ansarirfan
+
+## Skills (click icon for docs)
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" /></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" /></a>
+  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" /></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" /></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" /></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" /></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" /></a>
+  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" /></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" /></a>
+</p>
+
+---
+
+## Selected Projects
+Visit my repositories to see full projects (frontends, APIs, deployments):
+- E-Commerce (frontend + backend)
+- Task / ToDo apps (React + Node/Express)
+- Mini REST APIs (Node, Express, MongoDB)
+- Portfolio websites (Next.js, React)
+
+Explore: https://github.com/ansarirfan?tab=repositories
+
+## How to run a typical project (example)
+1. Clone a repo:
+   git clone https://github.com/ansarirfan/<project-name>.git
+2. Install dependencies:
+   cd <project-name>
+   npm install
+3. Start the dev server:
+   npm run dev
+4. For backend services:
+   npm install
+   npm run start (or npm run dev)
+5. Use environment variables listed in the repository's README (usually .env.local or .env).
+
+Note: Each project includes a README with exact steps, required env vars, and deployment notes.
+
+## How to collaborate
+- Star or fork a repo you like.
+- Open issues for questions/feature requests.
+- Submit a PR with clear description and tests (if applicable).
+- Contact me via email to discuss paid work or collaborations.
+
+## GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ansarirfan&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansarirfan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## Get in Touch
+- Email: <a href="mailto:ansaripaniyara007@gmail.com">ansaripaniyara007@gmail.com</a>
+- LinkedIn: https://linkedin.com/in/irfan-ansari-825b33239
+- Twitter: https://twitter.com/irfanan54378299
+- GitHub: https://github.com/ansarirfan
+
+Thanks for visiting — let's build something useful together! 🚀
